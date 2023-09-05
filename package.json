@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://hojjunekim.github.io/",
+  "homepage": "https://hojjunekim.github.io/personal-site/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hojjunekim/hojjunekim.github.io.git"
+    "url": "https://github.com/hojjunekim/personal-site.git"
   },
   "engines": {
     "node": ">=14.x"
